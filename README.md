@@ -1,7 +1,13 @@
-# 💀Gallery was replaced by :camera_flash: Photos
+# Gallery still needed and recovered for nextcloud 2020
+
+For all who just want to publish their photofolders, the new photo app isn't an alternative to the easy-to-handle Gallery, which provides nice albums from folders.
+
+Therefore I integrated some fixes to make it running with Nextcloud 19 - 20. Haven't changed any functionality or checked for security holes - use it on your own risk!
+
+# 💀~~Gallery was replaced by :camera_flash: Photos~~
 
 
-💀The gallery app has been replaced by the beautiful new app:
+💀~~The gallery app has been replaced by the beautiful new app:
 [:camera_flash: Nextcloud Photos - Your memories under your control](https://github.com/nextcloud/photos/)
 
 Before reporting an issue or opening a pull request, please checkout the new app and see if your request still needs to be handled there. In case it is, open your PR against the photos app.

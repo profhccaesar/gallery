@@ -4,6 +4,15 @@ For all who just want to publish their photofolders, the new photo app isn't an 
 
 Therefore I integrated some fixes to make it running with Nextcloud 19 - 20. Haven't changed any functionality or checked for security holes - use it on your own risk!
 
+To install it directly on a Linux shell:
+* Login per SSH on your Nexcloud server
+* Change directory to Nexcloud addon dir, e. g.
+  `cd /var/www/nextcloud/apps`
+* Checkout gallery:
+  `git clone https://github.com/profhccaesar/gallery.git gallery`
+* Activate app using Nextcloud Web interface.
+
+
 # 💀~~Gallery was replaced by :camera_flash: Photos~~
 
 
